@@ -1,4 +1,4 @@
-# AA-Notes
+# AA-Texts
 
 This tool is meant to quickly take notes of coordinates when playing Minecraft All Advancements speedruns.
 
