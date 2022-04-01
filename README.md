@@ -2,7 +2,7 @@
 
 This tool is meant to quickly take notes of coordinates when playing Minecraft All Advancements speedruns.
 
-Download [here](https://github.com/Antoine-MSL/AA-Texts/releases)
+Download [here](https://github.com/Antoine-MSL/AA-Texts/releases) then just unzip the file and open main.exe
 
 It's pretty poorly coded but it works okay, only with a few specific formats. If you try other things you will get errors so yeah follow the following formats if you wanna use that tool
 
